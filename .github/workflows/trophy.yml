@@ -17,7 +17,7 @@ jobs:
         with:
           username: sanjaysam410
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: darkhub
           no-frame: true
           max-rows: 1
