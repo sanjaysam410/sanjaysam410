@@ -70,7 +70,7 @@
     <img align="center" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://sanjaysamala-portfolio.vercel.app/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </p>
@@ -108,8 +108,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaysam410&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysam410&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sanjaysam410&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjaysam410&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="49%" />
 </div>
 
 ### 🔥 GitHub Streak & Contributions
