@@ -16,12 +16,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: sanjaysam410
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
-          no_frame: true
-          row: 1
-          column: 7
+          no-frame: true
+          max-rows: 1
+          max-cols: 7
 
       - name: Commit and push changes
         run: |
